@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashant Ahire
-- 👀 I’m interested in Programming And Coding
-- 🌱 I’m currently learning  Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 MCA Student from Sinhgad Institute of Management
+- 🌱 This are my College Mini Projects
+- 💞️ I’m looking to collaborate on Java, Php, Android
 - 📫 How to reach me 8793233096
 
 <!---
