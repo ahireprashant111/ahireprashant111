@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Prashant Ahire
 - 👀 MCA Student from Sinhgad Institute of Management
 - 🌱 This are my College Mini Projects
-- 💞️ I’m looking to collaborate on Java, Php, Android
+- 💞️ My Personal Website- https://ahireprashant111.github.io/prashant_portfolio.github.io/
 - 📫 How to reach me 8793233096
 
 <!---
